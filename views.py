@@ -26,7 +26,9 @@ You are in {}. You found a monster!<br>
 
 <!-- Image taken from site that generates random Corgi pictures-->
 <img src="http://placecorgi.com/260/180" /><br>
-    
+<img src="/static/monster.jpg" /><br>
+
+
 What is its name?
 
 <!-- Form allows you to have more text entry -->    
